@@ -1,0 +1,18 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Introduction\SchoolMascotLeoK\SchoolMascotLeoK\bin\Debug\SchoolMascotLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Introduction\SchoolMascotLeoK\SchoolMascotLeoK\bin\Debug\SchoolMascotLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Introduction\SchoolMascotLeoK\SchoolMascotLeoK\bin\Debug\SchoolMascotLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Introduction\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Introduction\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.frmMascot.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Introduction\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Introduction\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Introduction\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Introduction\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\SchoolMascotLeoK\SchoolMascotLeoK\bin\Debug\SchoolMascotLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\SchoolMascotLeoK\SchoolMascotLeoK\bin\Debug\SchoolMascotLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\SchoolMascotLeoK\SchoolMascotLeoK\bin\Debug\SchoolMascotLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.frmMascot.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 1 (Problem Solving)\SchoolMascotLeoK\SchoolMascotLeoK\obj\Debug\SchoolMascotLeoK.pdb
